@@ -32,15 +32,31 @@ Genres : Féminine / Masculine / Neutre → vert clair #BBF7D0
 
 ## 14 Univers :
 
-- Essentiels :
+Essentiels :
 - 🧑 Humain Réaliste
-- Fantasy :
-- 🧝 Elfe (Aube-de-Givre...), ⛏️ Nain (Barbe-d'Acier...), 👹 Orc (Arrache-Tripes...)
-- Divin & Démoniaque :
--👼 Ange Céleste, 😈 Démon, ✨ Divinité
-- Mythologie : 🏺 Grecque, ⚡ Nordique
-Cyber & Synth : 🌃 Netrunner, 🤖 Synthétique
-Compagnons : 🐱 Chat (29F/29H/27N), 🐶 Chien, 🐦 Oiseau — F/H/Neutre (Chaussette, Biscuit...)
+
+Fantasy :
+- 🧝 Elfe (Aube-de-Givre...),
+- ⛏️ Nain (Barbe-d'Acier...),
+- 👹 Orc (Arrache-Tripes...)
+
+Divin & Démoniaque :
+- 👼 Ange Céleste,
+- 😈 Démon,
+- ✨ Divinité
+
+Mythologie : 
+- 🏺 Grecque,
+- ⚡ Nordique
+
+Cyber & Synth :
+- 🌃 Netrunner,
+- 🤖 Synthétique
+
+Compagnons :
+- 🐱 Chat, (Canelle/grigou/shadow),
+- 🐶 Chien, (Biscuit, duchesse..),
+- 🐦 Oiseau, (Birdy, plumy..)
 
 <p
 Utilisation
