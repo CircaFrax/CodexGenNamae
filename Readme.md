@@ -21,6 +21,10 @@ Générateur d'identités françaises, fantasy et compagnons — pour MJ, refuge
 
 CodexGenNamae est un utilitaire léger, pensé pour donner un nom cohérent en un clic. Pas d'API, pas de cloud. Il tourne sur un vieux PC sous Windows 10, même sans internet. Un clic, une identité. Ou 1000.
 
+## Aperçu
+<img src="assets/Screenshot_v2.2.2.png" width="650">
+*Menu à gauche, prévisualisation à droite – 100% offline*
+
 Fonctionnalités v2.2.2
 Identité unique : prénom + nom / lignée / clan cohérent
 Génération en masse : 12, 100, 1000 noms d'un coup (TXT / MD / CSV)
