@@ -54,7 +54,7 @@ Cyber & Synth :
 - 🤖 Synthétique
 
 Compagnons :
-- 🐱 Chat (Canelle, grigou, shadow)
+- 🐱 Chat (Canelle, grigou, shadow..)
 - 🐶 Chien (Biscuit, duchesse..)
 - 🐦 Oiseau (Birdy, plumy..)
 
