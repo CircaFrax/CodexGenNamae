@@ -36,8 +36,8 @@ Essentiels :
 - 🧑 Humain Réaliste
 
 Fantasy :
-- 🧝 Elfe (Aube-de-Givre...),
-- ⛏️ Nain (Barbe-d'Acier...),
+- 🧝 Elfe (Aube-de-Givre...)
+- ⛏️ Nain (Barbe-d'Acier...)
 - 👹 Orc (Arrache-Tripes...)
 
 Divin & Démoniaque :
@@ -54,8 +54,8 @@ Cyber & Synth :
 - 🤖 Synthétique
 
 Compagnons :
-- 🐱 Chat (Canelle, grigou, shadow),
-- 🐶 Chien (Biscuit, duchesse..),
+- 🐱 Chat (Canelle, grigou, shadow)
+- 🐶 Chien (Biscuit, duchesse..)
 - 🐦 Oiseau (Birdy, plumy..)
 
 <p
