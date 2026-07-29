@@ -30,8 +30,9 @@ Identité unique : prénom + nom / lignée / clan cohérent
 Génération en masse : 12, 100, 1000 noms d'un coup (TXT / MD / CSV)
 Genres : Féminine / Masculine / Neutre → vert clair #BBF7D0
 14 Univers (sans doublons) :
--Essentiels :
+<pEssentiels :
 -🧑 Humain Réaliste
+</p>
 Fantasy :
 -🧝 Elfe (Aube-de-Givre...), ⛏️ Nain (Barbe-d'Acier...), 👹 Orc (Arrache-Tripes...)
 -Divin & Démoniaque :
