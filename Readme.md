@@ -41,22 +41,22 @@ Fantasy :
 - 👹 Orc (Arrache-Tripes...)
 
 Divin & Démoniaque :
-- 👼 Ange Céleste,
-- 😈 Démon,
+- 👼 Ange Céleste
+- 😈 Démon
 - ✨ Divinité
 
 Mythologie : 
-- 🏺 Grecque,
+- 🏺 Grecque
 - ⚡ Nordique
 
 Cyber & Synth :
-- 🌃 Netrunner,
+- 🌃 Netrunner
 - 🤖 Synthétique
 
 Compagnons :
-- 🐱 Chat, (Canelle, grigou, shadow),
-- 🐶 Chien, (Biscuit, duchesse..),
-- 🐦 Oiseau, (Birdy, plumy..)
+- 🐱 Chat (Canelle, grigou, shadow),
+- 🐶 Chien (Biscuit, duchesse..),
+- 🐦 Oiseau (Birdy, plumy..)
 
 <p
 Utilisation
