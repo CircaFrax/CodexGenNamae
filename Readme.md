@@ -29,9 +29,9 @@ Fonctionnalités v2.2.2
 Identité unique : prénom + nom / lignée / clan cohérent
 Génération en masse : 12, 100, 1000 noms d'un coup (TXT / MD / CSV)
 Genres : Féminine / Masculine / Neutre → vert clair #BBF7D0
-14 Univers (sans doublons) :
 
-<p
+## 14 Univers (sans doublons) :
+
 Essentiels :
 -🧑 Humain Réaliste
 Fantasy :
@@ -41,7 +41,6 @@ Fantasy :
 Mythologie : 🏺 Grecque, ⚡ Nordique
 Cyber & Synth : 🌃 Netrunner, 🤖 Synthétique
 Compagnons : 🐱 Chat (29F/29H/27N), 🐶 Chien, 🐦 Oiseau — F/H/Neutre (Chaussette, Biscuit...)
-<\p>
 
 <p
 Utilisation
