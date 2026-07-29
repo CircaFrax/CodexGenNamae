@@ -10,7 +10,7 @@
 
 <p align="center">
 
-### ⬇️ [Télécharger CodexGenNamae v2.2.2 (Windows)](https://github.com/CircaFrax/CodexGenQrcode/releases/download/v2.2.2/CodexGenNamae_v2.2.2.zip)
+### ⬇️ [Télécharger CodexGenNamae v2.2.2 (Windows)](https://github.com/CircaFrax/CodexGenNamae/releases/download/v2.2.2/CodexGenNamae_v2.2.2.zip)
 `SHA256: e00053d9b0b7407f0c594797cd03e2f7be7520f22ffa80d3ee1f98dfa99e9471`
 
 </p>
