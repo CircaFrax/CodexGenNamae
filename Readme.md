@@ -32,7 +32,6 @@ Genres : Féminine / Masculine / Neutre → vert clair #BBF7D0
 14 Univers (sans doublons) :
 <pEssentiels :
 -🧑 Humain Réaliste
-</p>
 Fantasy :
 -🧝 Elfe (Aube-de-Givre...), ⛏️ Nain (Barbe-d'Acier...), 👹 Orc (Arrache-Tripes...)
 -Divin & Démoniaque :
@@ -40,13 +39,16 @@ Fantasy :
 Mythologie : 🏺 Grecque, ⚡ Nordique
 Cyber & Synth : 🌃 Netrunner, 🤖 Synthétique
 Compagnons : 🐱 Chat (29F/29H/27N), 🐶 Chien, 🐦 Oiseau — F/H/Neutre (Chaussette, Biscuit...)
+<\p>
 
+<p
 Utilisation
 Lancer CodexGenNamae.exe
 Choisir un univers à gauche (Essentiels, Fantasy, Divin & Démoniaque...)
 Choisir Féminine / Masculine / Neutre
 Générer → Copier
 Génération en masse → Copier / Exporter en TXT, MD, CSV
+<\p>
 
 ### 📁 Structure
 
